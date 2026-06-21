@@ -1,0 +1,39 @@
+MNIST and CIFAR-10 are image classification datasets.. Cifar-10 is way harder.
+
+MNIST has 28×28 grayscale images of digits. They are simple and clean.
+
+The digits range from 0 to 9.
+
+CIFAR-10 has 32×32 color images. They are from 10 real-world object categories.
+
+These include airplanes, cats, dogs and trucks.
+
+These images have backgrounds.
+
+The lighting conditions vary.
+
+The objects are in positions.
+
+There is a lot of diversity.
+
+CIFAR-10 images have three color channels. RGB.
+
+This means the model has to process information.
+
+To get accuracy on CIFAR-10 you usually need deeper CNN architectures.
+
+You also need data augmentation and longer training.
+
+This is different from MNIST.
+
+MNIST is simpler.
+
+CIFAR-10 requires more.
+
+It needs data, more processing power and more complex models.
+
+The model has to be able to handle backgrounds and varying lighting conditions.
+
+It has to be able to recognize objects, in positions.
+
+That is what makes CIFAR-10 challenging.
