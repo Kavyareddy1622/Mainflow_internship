@@ -1,0 +1,15 @@
+In this project the college chatbot used two methods to figure out what the user wanted which is called detection. 
+One method was simple. Worked well when the user asked a question in a straightforward way. 
+This method was fast. Gave good results when the user used specific words that the chatbot was programmed to recognize. 
+However this method had trouble when the user asked a question in a way or used words that the chatbot was not familiar with.
+
+The other method used something called NLP, which's a way of helping computers understand human language. 
+This method used tools like TF-IDF vectorization and Logistic Regression to help the chatbot understand what the user meant. 
+This NLP method was better because it could understand the intent of a question when the user asked it in a different way.
+ The NLP method made the chatbot more flexible and able to handle conversations. It also made the chatbot more natural to talk to.
+
+The NLP method also gave the chatbot a score that showed how confident it was in its answer. 
+This helped the chatbot handle situations where it was not sure what the user meant. 
+The simple method was easier to set up and understand. The NLP method worked better in the real world. 
+So the NLP method was better overall. It helped the chatbot understand the users intent more accurately which made the chatbot work better. 
+The NLP approach was more suitable, for the college chatbot because it provided accurate intent classification and improved the chatbots performance.
